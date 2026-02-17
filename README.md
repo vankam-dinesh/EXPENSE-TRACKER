@@ -17,8 +17,3 @@ This project allows users to add expenses by entering the title, amount, categor
 - Backend: Node.js, Express.js
 - Database: MongoDB
 
-### Purpose
-This project is developed to understand frontend-backend interaction, REST APIs, and database integration. It is suitable for beginners learning full-stack web development.
-
-### Created By
-Bhumesh Jaiswal
