@@ -1,6 +1,6 @@
 # EXPENSE-TRACKER-2
 ## Expense Tracking System
-
+                                                 
 The Expense Tracking System is a simple web-based application designed to help users record and manage their daily expenses efficiently.
 
 This project allows users to add expenses by entering the title, amount, category, and date. All expense data is stored permanently in a MongoDB database and displayed dynamically on the web page without reloading.
