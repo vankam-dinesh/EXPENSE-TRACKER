@@ -11,7 +11,7 @@ This project allows users to add expenses by entering the title, amount, categor
 - View all expenses in a table
 - Automatic total expense calculation
 - Persistent data storage using MongoDB
-     
+                                                                                                                         
 ### Technologies Used
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
