@@ -5,7 +5,7 @@ The Expense Tracking System is a simple web-based application designed to help u
 
 This project allows users to add expenses by entering the title, amount, category, and date. All expense data is stored permanently in a MongoDB database and displayed dynamically on the web page without reloading.
 
-### Key Features                                                                 
+### Key Features                                                                                                   
 - Add new expenses
 - Categorize expenses (Food, Travel, Shopping, Other)
 - View all expenses in a table
@@ -14,6 +14,6 @@ This project allows users to add expenses by entering the title, amount, categor
                                                                                                                          
 ### Technologies Used
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js, Express.js
+- Backend: Node.js, Express.js                                                                                                                           
 - Database: MongoDB
 
