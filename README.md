@@ -7,7 +7,7 @@ This project allows users to add expenses by entering the title, amount, categor
 
 ### Key Features                                                                                                   
 - Add new expenses
-- Categorize expenses (Food, Travel, Shopping, Other)
+- Categorize expenses (Food, Travel, Shopping, Other)                                     
 - View all expenses in a table
 - Automatic total expense calculation
 - Persistent data storage using MongoDB
